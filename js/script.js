@@ -13,7 +13,7 @@ var questions = [{
     choices: ["Answer 1", "Answer 2", "Answer 3", "Answer 4"],
     correctAnswer: 1
 }, {
-    question: "Question 6: ",
+    question: "Question 6: Dudebro",
     choices: ["Answer 1", "Answer 2", "Answer 3", "Answer 4"],
     correctAnswer: 0
 }, {
